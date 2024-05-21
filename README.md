@@ -70,3 +70,5 @@ kubectl gadget top ebpf
 kubectl gadget top file --namespace argocd
 kubectl gadget top file -A
 ```
+
+- Note: kubescape uses at the backend uses some of the features of inspektor-gadget
